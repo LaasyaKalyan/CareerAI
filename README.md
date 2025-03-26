@@ -1,4 +1,25 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+CareerAI is a Next.js-based application that helps users with career-related tasks, including generating AI-powered cover letters, building resumes, and preparing for interviews. It integrates authentication using Clerk, manages user data with Prisma, and employs Tailwind CSS for styling.
+
+🛠 Tech Stack
+Frontend: Next.js, React, Tailwind CSS
+
+Backend: Next.js API Routes, Prisma (PostgreSQL or SQLite)
+
+Authentication: Clerk
+
+Database: Prisma ORM
+
+Styling: Tailwind CSS
+
+Hosting: Vercel (optional)
+
+🚀 Features
+✅ AI-powered cover letter generation
+✅ Resume builder with customizable templates
+✅ Interview preparation with AI-driven suggestions
+✅ User authentication via Clerk
+✅ Database storage using Prisma
+✅ Modern UI with Tailwind CSS
 
 ## Getting Started
 
